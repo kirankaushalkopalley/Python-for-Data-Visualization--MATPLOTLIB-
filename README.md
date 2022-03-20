@@ -8,3 +8,8 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 - Export to many file formats .
 - Embed in JupyterLab and Graphical User Interfaces.
 - Use a rich array of third-party packages built on Matplotlib.
+
+## Pyplot
+matplotlib.pyplot is a state-based interface to matplotlib. It provides an implicit, MATLAB-like, way of plotting. It also opens figures on your screen, and acts as the figure GUI manager.
+
+pyplot is mainly intended for interactive plots and simple cases of programmatic plot generation
